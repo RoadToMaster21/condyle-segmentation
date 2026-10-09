@@ -2,7 +2,7 @@
 
 Official implementation of:
 
-"Mandibular condyle segmentation on temporomandibular joint CBCT using deep learning"
+"Deep learning-based mandibular condyle segmentation on unilateral temporomandibular joint CBCT: morphological outcome evaluation and protocol-shift evaluation on bilateral imaging"
 
 ## Status
 
